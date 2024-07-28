@@ -10,14 +10,14 @@ I specialize in Web Development and UI development, with proficiency in various 
 
 ## 🔧 Technologies & Tools
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammiracle01&show_icons=true&theme=radical)](https://github.com/iammiracle01/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammiracle01&layout=compact)](https://github.com/iammiracle01/github-readme-stats)
 
 - **Languages**: Python, JavaScript, HTML, CSS, TypeScript
 - **Frameworks & Libraries**: React, Node.js, Flask, Django, Express, Next.js, Tailwind CSS
 - **Databases**: PostgreSQL, MongoDB
 - **Other Tools**: Git, GitHub, VS Code
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammiracle01&show_icons=true&theme=radical)](https://github.com/iammiracle01/github-readme-stats)
 
 ## 🌱 Current Projects
 
