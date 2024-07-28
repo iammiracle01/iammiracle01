@@ -43,7 +43,7 @@ I specialize in Web Development and UI development, with proficiency in various 
 - **Email**: [mbo_seyifash@yahoo.com](mailto:mbo_seyifash@yahoo.com)
 - **LinkedIn**: [Fasuyi Boluwatife Miracle](https://www.linkedin.com/in/fasuyi-miracle/)
 - **Twitter**: [@iammiracle_01](https://x.com/iammiracle_01)
-- **Portfolio**: [Live](https://iammiracle.vercel.app/)
+- **Portfolio**: [Visit](https://iammiracle.vercel.app/)
 
 ## ⚡ Fun Fact
 
