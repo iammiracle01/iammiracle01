@@ -50,7 +50,7 @@ I'm a passionate Web Developer and UI Developer with a knack for building engagi
 - **Email**: [mbo_seyifash@yahoo.com](mailto:mbo_seyifash@yahoo.com)
 - **LinkedIn**: [Fasuyi Boluwatife Miracle](https://www.linkedin.com/in/fasuyi-miracle/)
 - **Twitter**: [@iammiracle_01](https://x.com/iammiracle_01)
-- **Portfolio**: [Visit](https://iammiracle.vercel.app/)
+- **Portfolio**: [iammiracle.vercel.app](https://iammiracle.vercel.app/)
 
 ## ⚡ Fun Fact
 
