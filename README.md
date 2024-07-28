@@ -2,6 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iammiracle01&color=blue)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammiracle01&show_icons=true&theme=radical)](https://github.com/iammiracle01/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammiracle01&layout=compact)](https://github.com/iammiracle01/github-readme-stats)
+
 ## 👨‍💻 About Me
 
 I specialize in Web Development and UI development, with proficiency in various programming languages. I enjoy exploring new technologies and applying them to solve real-world problems. In my free time, I love reading tech blogs and experimenting with new coding projects.
@@ -51,6 +55,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fasuyi-mi
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammiracle01&show_icons=true&theme=radical)](https://github.com/iammiracle01/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammiracle01&layout=compact)](https://github.com/iammiracle01/github-readme-stats)
