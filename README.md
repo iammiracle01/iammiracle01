@@ -11,7 +11,6 @@ I'm a passionate Web Developer and UI Developer with a knack for building engagi
 ### 👉 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff)
 
 ### 👉 Frontend Development
@@ -19,20 +18,23 @@ I'm a passionate Web Developer and UI Developer with a knack for building engagi
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=ffffff)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=ffffff)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=ffffff)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=ffffff)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?logo=shadcn&logoColor=ffffff)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=ffffff)
+![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35BDB2?logo=semantic-ui-react&logoColor=ffffff)
+![Aceternity](https://img.shields.io/badge/-Aceternity-FF6C37?logo=aceternity&logoColor=ffffff)
+
+
 
 ### 👉 Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=ffffff)
 ![REST API](https://img.shields.io/badge/-REST%20API-000000?logo=api&logoColor=ffffff)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=ffffff)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=ffffff)
+
 
 ### 👉 IDEs
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=ffffff)
@@ -43,38 +45,21 @@ I'm a passionate Web Developer and UI Developer with a knack for building engagi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=ffffff)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=ffffff)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=ffffff)
 
-### 👉 Designing
+### 👉 Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=ffffff)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=ffffff)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=ffffff)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=ffffff)
 
 ### 👉 Software & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=ffffff)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=ffffff)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira-software&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=ffffff)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=ffffff)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=000000)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=ffffff)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=ffffff)
-![Linux Shell](https://img.shields.io/badge/-Linux%20Shell-FCC624?logo=linux&logoColor=000000)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000000)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=ffffff)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=ffffff)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=ffffff)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=ffffff)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&logoColor=ffffff)
-![Lean](https://img.shields.io/badge/-Lean-FF7F32?logo=lean&logoColor=ffffff)
-![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=svn&logoColor=ffffff)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=ffffff)
+
 
 ---
 
