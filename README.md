@@ -41,7 +41,7 @@ I'm a passionate Web Developer and UI Developer with a knack for building engagi
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=ffffff)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=ffffff)
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=ffffff)
