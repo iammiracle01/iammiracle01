@@ -65,8 +65,8 @@ I'm a passionate Web Developer and UI Developer with a knack for building engagi
 
 ## 🌱 Current Projects
 
-- **[Sample Next.js Portfolio](https://iammiracle.vercel.app)**: A showcase of my work, built with Next.js, Tailwind CSS, Framer Motion, and Sentry for error tracking.
-- **[My Portfolio](https://sample-nextjs-portfolio.vercel.app/)**: My personal portfolio featuring projects and skills, styled with Tailwind CSS and enhanced with Framer Motion animations.
+- **[Sample Next.js Portfolio](https://sample-nextjs-portfolio.vercel.app/)**: A showcase of my work, built with Next.js, Tailwind CSS, Framer Motion, and Sentry for error tracking.
+- **[My Portfolio](https://iammiracle.vercel.app)**: My personal portfolio featuring projects and skills, styled with Tailwind CSS and enhanced with Framer Motion animations.
 - **[Warehouse API](https://github.com/iammiracle01/Warehouse)**: A comprehensive API for managing warehouse operations using Flask, supporting CRUD functionalities.
 - **[Movie Trailer App](https://trailersflix.netlify.app/)**: A React-based app for searching and watching movie trailers, using TMDb API and Tailwind CSS.
 - **[Netflix Clone](https://github.com/iammiracle01/netflix-clone)**: A streaming app offering a vast collection of movies, TV shows, and documentaries.
