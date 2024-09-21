@@ -30,9 +30,6 @@ I'm a passionate Web Developer and UI Developer with a knack for building engagi
 ### 👉 Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=ffffff)
-![REST API](https://img.shields.io/badge/-REST%20API-000000?logo=api&logoColor=ffffff)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=ffffff)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=ffffff)
 
 
@@ -42,13 +39,8 @@ I'm a passionate Web Developer and UI Developer with a knack for building engagi
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=ffffff)
 
 ### 👉 Databases 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=ffffff)
-
-### 👉 Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=ffffff)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=ffffff)
 
 ### 👉 Software & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
