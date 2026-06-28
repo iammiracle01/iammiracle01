@@ -1,4 +1,4 @@
-# Hi there, I'm Fasuyi Boluwatife Miracle! 👋
+# Hi there, I'm Miracle! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iammiracle01&color=blue)
 
